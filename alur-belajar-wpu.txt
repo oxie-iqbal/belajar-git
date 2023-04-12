@@ -1,0 +1,7 @@
+1. Mengenal GIT & GITHUB
+2. Belajar menggunakan GITHUB
+3. GITHUB : BRANCH
+4. GITHUB : FORK
+5. Belajar menggunakan GIT
+6. GIT BRANCH & MERGE
+7. GIT MERGE CONFLICT
